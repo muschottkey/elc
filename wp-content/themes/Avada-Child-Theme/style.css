@@ -15,3 +15,31 @@ Text Domain:  Avada
     padding-top: 5px;
     padding-bottom: 5px;
 }
+.pt20{
+	padding-top: 20px;
+}
+.mt18{
+	margin-top: 18px;
+}
+.mt20{
+	margin-top: 20px;
+}
+.fusion-button.button-lightgray .button-icon-divider-left, .fusion-button.button-lightgray.wpcf7-submit .button-icon-divider-left, .button.lightgray .button-icon-divider-left, .fusion-button.button-lightgray .button-icon-divider-right, .fusion-button.button-lightgray.wpcf7-submit .button-icon-divider-right, .button.lightgray .button-icon-divider-right{
+	border-color:#ddd;
+}
+.normal_case{
+	text-transform: none !important;
+}
+
+#wrapper .search-table .search-field input{
+	padding:20px 10px;
+}
+.searchform .search-table .search-button input[type="submit"]{
+	height: 42px !i;
+    width: 42px;
+    line-height: 42px;
+}
+#comment-input input, #comment-textarea textarea, #tribe-bar-form input[type=text], #wrapper .search-table .search-field input, .avada-select .select2-container .select2-choice, .avada-select .select2-container .select2-choice .select2-arrow, .avada-select .select2-container .select2-choice2 .select2-arrow, .avada-select-parent .select-arrow, .avada-select-parent select, .chzn-container .chzn-drop, .chzn-container-single .chzn-single, .comment-form-comment textarea, .gravity-select-parent .select-arrow, .input-text, .main-nav-search-form input, .post-password-form .password, .search-page-search-form input, .select-arrow, input.s, input[type="text"], select, textarea{
+	border-color: #e3e3e3 !important;
+    background-color: #E3e3e3 !important;
+}
